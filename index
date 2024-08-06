@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Webchat</title>
+</head>
+<body>
+<script src="https://cdn.botpress.cloud/webchat/v2/inject.js"></script>
+<script src="https://mediafiles.botpress.cloud/586aa09f-8742-442f-a1f1-db16faa366d6/webchat/v2/config.js"></script>
+</body>
+</html>
